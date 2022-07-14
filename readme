@@ -1,3 +1,8 @@
                                 myo-readings-app
 
 record and analyze myo armband data.
+
+note:
+
+the 'myo-readings-app.py' file is a fork from the 'examples/emg.py' file from
+https://github.com/qtux/myo-raw
